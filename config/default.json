@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://Yassine:ILOVEALLAHBUTALLAHLOVESMEMORE@cluster0.pfcsr.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret":"sl_myJwtSecret"
+}
